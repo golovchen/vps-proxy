@@ -6,6 +6,10 @@ docker container rm mindmap
 docker container stop golovchen
 docker container rm golovchen
 
+docker container stop geork
+docker container rm geork
+
+
 docker container stop vps-proxy
 docker container rm vps-proxy
 
